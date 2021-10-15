@@ -141,7 +141,7 @@
 			"description": "CDN for xboxlive",
 			"mixed_content": true,
 			"domain_files": ["xboxlive.txt"]
-		},
+		}
 		
 	]
 }
